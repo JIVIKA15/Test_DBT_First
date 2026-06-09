@@ -3,10 +3,10 @@
 -- Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
 
 -- Create database
-CREATE DATABASE IF NOT EXISTS SLEEKMART_OMS;
+CREATE DATABASE IF NOT EXISTS DEMO_TEST;
 
 -- Use the database
-USE DATABASE SLEEKMART_OMS;
+USE DATABASE DEMO_TEST;
 
 -- Create schema
 CREATE SCHEMA IF NOT EXISTS L1_LANDING;
